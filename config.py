@@ -4,13 +4,13 @@ import os
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 
 # Your API ID from my.telegram.org
-API_ID = int(os.environ.get("API_ID", "29199850"))
+API_ID = int(os.environ.get("API_ID", "25583506"))
 
 # Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "711c12d4f9bb08a1342715862e4df9c9")
+API_HASH = os.environ.get("API_HASH", "15394a6f1a7369c211a619ac01dfb795")
 
 # Your Owner / Admin Id For Broadcast 
-ADMINS = int(os.environ.get("ADMINS", "6486329379"))
+ADMINS = int(os.environ.get("ADMINS", "5983253591"))
 
 # Your Mongodb Database Url
 DB_URI = os.environ.get("DB_URI", "mongodb+srv://aaka8h:D7isu9EqbguSB4Wt@cluster0.h95fe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
